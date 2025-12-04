@@ -25,7 +25,7 @@ public class practice_form {
 
 
     @Test
-    void lockedUserTest() {
+    void formTest() {
         open("/automation-practice-form");
 
 
