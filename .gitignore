@@ -2,7 +2,8 @@ HELP.md
 build/
 !**/src/main/**
 !**/src/test/**
-!*/icons8-pubg-50.png
+!*/qa_guru.jpg
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -11,6 +12,9 @@ build/
 
 ### Gradle ###
 .gradle
+gradle/wrapper/
+gradlew
+gradlew.bat
 
 ### Logs ###
 *.log
