@@ -72,7 +72,7 @@ public class practice_form_rework {
         $(".table-dark").shouldHave(text("Uttar Pradesh Merrut"));
 
 
-        $("#closeLargeModal").click();
+      //  $("#closeLargeModal").click();
 
 
     }
