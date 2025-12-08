@@ -62,6 +62,7 @@ public class practice_form_rework {
 
 
         $("#example-modal-sizes-title-lg").shouldHave(text("Thanks for submitting the form"));
+
         $(".table-dark").shouldHave(text("yatmanov@qa_guru_39.com"));
         $(".table-dark").shouldHave(text("Male"));
         $(".table-dark").shouldHave(text("9999999999"));
