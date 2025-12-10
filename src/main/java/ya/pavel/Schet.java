@@ -1,4 +1,4 @@
-package pavel;
+package ya.pavel;
 
 public class Schet {
 
@@ -24,6 +24,24 @@ public class Schet {
         int y = 20;
         int summa = x + y;
         System.out.println(summa);
+
+        int a = 10;
+        int b = 20;
+        int c = 25;
+        System.out.println("a + b = " + (a + b));
+        System.out.println("a - b = " + (a - b));
+        System.out.println("a * b = " + (a * b));
+        System.out.println("b / a = " + (b / a));
+        System.out.println("b % a = " + (b % a));
+        System.out.println("c % a = " + (c % a));
+        System.out.println("a++   = " +  (a++));
+        System.out.println("b--   = " +  (a--));
+
+
+        int d = 1000000000;
+        int e = 1000000000;
+        System.out.println("Perepolnenie  " + (d * e));
+
 
 
     }
